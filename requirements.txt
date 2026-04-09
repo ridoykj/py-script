@@ -1,0 +1,15 @@
+uvicorn==0.40.0
+fastapi
+python-multipart==0.0.21
+google-cloud-firestore
+google-api-python-client
+google-cloud-secret-manager
+google-cloud-storage
+google-auth
+pydantic
+python-dotenv
+firebase-admin
+google-cloud-tasks
+google-cloud-bigquery
+pytest
+pytest-asyncio
